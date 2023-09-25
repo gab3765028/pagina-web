@@ -1,0 +1,99 @@
+html{
+    background-color: honeydew;
+   font-family: helvetica;
+   
+}
+.container{
+    position: relative;
+    margin: 0px auto;
+    padding: 0px;
+}
+.container p{
+    font-size: 20px;
+}
+.imgtop{
+    text-align: center;
+    border:3px solid black;
+    border-radius: 8px;
+    margin: -7px;
+    background-image: url(../img/fundo-da-aguarela-de-natal-com-flocos-de-neve-estrelas-e-luzes-do-bokeh_1048-3836.avif);
+    
+}
+#chopper{
+    display: flex;
+    position: absolute;
+   width: 75px;
+   height: 75px;
+   left: 0px;
+   top: 0px;
+}
+.bold{
+    font-weight: bold;
+}
+.paragraph p,h1{
+    padding: 3px;
+   
+}
+.imagem{
+    text-align: center;
+    padding: 8px;
+}
+.enredo p,h2{
+    padding: 3px;
+}
+.personagens{
+    
+    padding: 5px;
+    margin:20px 20px;
+    text-align: center;
+    
+}
+.personagens h2{
+    text-align: center;
+    background-color: darkgray;
+    margin:20px 200px;
+    border-radius: 8px;
+}
+.citacao{
+    text-align: center;
+    font-size: 18px;
+   font-style: italic;
+   
+}
+.video{
+    text-align: center;
+}
+.video video{
+    width: 500px;
+    border: 2px solid black;
+    border-radius: 5px;
+   
+}
+.final{
+    border: 3px solid black;
+    border-radius:8px;
+    text-align: center;
+    margin:  0 -7px;
+    position: relative;
+    height: 150px;
+}
+.final h3{
+    font-family: cursive;
+}
+#luffy{
+    display: flex;
+    position:absolute ;
+    left: 10px;
+    top: 0px;
+    
+}
+#one{
+    display: flex;
+    position: absolute;
+    right: 1px;
+    top: 1px;
+    bottom: 0px;
+    height: 148px;
+    
+}
+
